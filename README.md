@@ -32,7 +32,6 @@ value=np.linalg.inv(A)
 print(value)
 ```
 
-
 ## Output:
 ![OUTPUT](./Output.png)
 
