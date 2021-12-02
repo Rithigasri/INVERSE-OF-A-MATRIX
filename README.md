@@ -31,6 +31,8 @@ A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 value=np.linalg.inv(A)
 print(value)
 ```
+
+
 ## Output:
 ![OUTPUT](./Output.png)
 
